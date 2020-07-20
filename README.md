@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/GajjarMiten/GajjarMiten/xyzz.gif" ></img>
+<img src="https://github.com/GajjarMiten/GajjarMiten/blob/master/xyzz.gif" ></img>
 <!--
 **GajjarMiten/GajjarMiten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
