@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/GajjarMiten/GajjarMiten/blob/master/bio.gif" ></img>
+<img src="https://github.com/GajjarMiten/GajjarMiten/blob/master/intro.gif" ></img>
 </p>
 <br>
 <h2>🇦 🇧 🇴 🇺 🇹</h2>
@@ -9,6 +9,10 @@
 
  <h3>🔥 Currently doing internship as a Mobile App Developer.<br>
  🔥 Currently learning Flutter | Kotlin | Python | Node.JS
+ </h3>
+
+ ![Miten's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=GajjarMiten&show_icons=true&theme=radical)
+
 <p><br></p>
 <h2> 🇱 🇦 🇳 🇬 🇺 🇦 🇬 🇪 🇸 | 🇹 🇴 🇴 🇱 🇸 </h2>
 <p><br></p>
