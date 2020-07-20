@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="./xyz.gif" ></img>
 <!--
 **GajjarMiten/GajjarMiten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
