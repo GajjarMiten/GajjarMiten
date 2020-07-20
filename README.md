@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/GajjarMiten/GajjarMiten/blob/master/a.gif" ></img>
+<img src="https://github.com/GajjarMiten/GajjarMiten/blob/master/bio.gif" ></img>
 </p>
 <br>
 🇦 🇧 🇴 🇺 🇹
