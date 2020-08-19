@@ -20,7 +20,7 @@
     🔥 Currently learning Flutter | Kotlin | Python | Node.JS
  </h3>
 
- ![Miten's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=GajjarMiten&show_icons=true)
+ ![Miten's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=GajjarMiten&show_icons=true&hide_border=true)
 
 
 <br>
