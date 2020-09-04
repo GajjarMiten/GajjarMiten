@@ -16,7 +16,7 @@
 </p>
 
  <h3>
-    🔥 Currently doing internship as a Mobile App Developercc.<br>
+    🔥 Currently doing internship as a Mobile App Developer.<br>
     🔥 Currently learning Flutter | Kotlin | Python | Node.JS
  </h3>
 
