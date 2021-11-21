@@ -16,8 +16,7 @@
 </p>
 
  <h3>
-    🔥 Currently doing internship as a Mobile App Developer.<br>
-    🔥 Currently learning Flutter | Kotlin | Python | Node.JS
+    🔥 Currently learning Next.JS | React.JS
  </h3>
 
  ![Miten's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=GajjarMiten&show_icons=true&hide_border=true)
