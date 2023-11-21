@@ -5,26 +5,24 @@
 
 <br>
 
-<h2>🇦 🇧 🇴 🇺 🇹</h2>
+<h2>About</h2>
 
 <p>
-    <h3>Hello, I'm Miten Gajjar<img src="https://github.com/GajjarMiten/GajjarMiten/blob/master/Hi.gif" width="26px">, a lazy 😴 Flutter Developer powered by VS Code
+    Hello, I'm Miten Gajjar <img src="https://github.com/GajjarMiten/GajjarMiten/blob/master/Hi.gif" width="26px">, a kinda lazy 😴 Flutter Developer and Team Lead at <a href="https://www.lenditt.com">Lenditt<a/> powered by VS Code
         <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width=20>
         and Coffee ☕️.<br>
-        I use code to develope the parts of websites 💻 and apps that people see and interact with. Fonts and colors. Forms and buttons. That's me 😋.
-    </h3>
+        I use code to develope the parts of websites 💻 and apps that people see and interact with. Fonts and colors. Forms and buttons. That's me😋.
 </p>
 
  <h3>
-    🔥 Currently learning Next.JS | React.JS
+    🔥 Currently exploring iOS + SwiftUI
  </h3>
 
  ![Miten's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=GajjarMiten&show_icons=true&hide_border=true)
 
-
 <br>
 
-<h2> 🇱 🇦 🇳 🇬 🇺 🇦 🇬 🇪 🇸 | 🇹 🇴 🇴 🇱 🇸 </h2>
+<h2>Stack</h2>
 
 <br>
 
